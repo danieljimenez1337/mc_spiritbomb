@@ -33,7 +33,7 @@ body{
 .section1{
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    
+    margin-top: 2%;
 }
 .img-fluid{
     margin: 30px;
