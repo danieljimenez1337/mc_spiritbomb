@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "minecraft";
+    src: url(font/Minecrafter.Reg.ttf) format("truetype");
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+body{
+    background: #00629B;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background: black;
+    color: white;
+    font-family: "minecraft";
+}
+.jumbotron{
+    background-image: url("./images/mcb2.jpg");
+    background-size: cover;
+    font-family: "minecraft";
+    text-align: center;
+}
+.top{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color:white;
+}
+.online{
+    color: #3fb618;
+}
+.section1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.img-fluid{
+    margin: 30px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px; /* Set the fixed height of the footer here */
+    line-height: 40px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+    padding-left: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+  
